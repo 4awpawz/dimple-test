@@ -1,0 +1,42 @@
+.container {
+    width: 100vw;
+    padding: 0 15vw;
+    overflow: hidden;
+}
+
+.container--centered {
+    text-align: center;
+}
+
+.container--primary {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #673AB7;
+    color: white;
+    height: 50vh;
+}
+
+.container-flex {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    padding: 0 15vw;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-flex--light {
+    background-color: #BDBDBD;
+}
+
+.container-flex--dark {
+    background-color: #212121;
+    color: white;
+}
+
+.container-flex__item {
+    padding: 100px 0;
+    text-align: center;
+}

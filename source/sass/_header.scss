@@ -1,0 +1,39 @@
+.header {
+    background-color: #512DA8;
+    overflow: hidden;
+    width: 100vw;
+}
+
+.header__promo {
+    color: white;
+    font-weight: bold;
+    float: left;
+    font-size: 1.5rem;
+}
+
+.header__nav {
+    float: right;
+}
+
+.header__nav-items {
+    overflow: hidden;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    line-height: calc(1.5 * 1.5);
+}
+
+.header__nav-item {
+    float: left;
+    padding-right: 20px;
+    letter-spacing: 1px;
+}
+
+.header__nav-item:last-child {
+    padding-right: 0;
+}
+
+.header__nav-item-link {
+    color: white;
+    font-weight: bold;
+}
