@@ -5,8 +5,8 @@
 }
 
 .header__promo {
-    color: white;
-    font-weight: bold;
+    color: rgba($color: #ffffff, $alpha: 0.8);
+    font-weight: normal;
     float: left;
     font-size: 1.5rem;
 }
@@ -34,6 +34,8 @@
 }
 
 .header__nav-item-link {
-    color: white;
-    font-weight: bold;
+    color: rgba($color: #ffffff, $alpha: 0.8);
+    font-size: .8rem;
+    font-weight: normal;
+    text-transform: uppercase;
 }
