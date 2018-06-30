@@ -1,6 +1,6 @@
 <!--
 description: about page body fragment
-page: default.html
+template: default.html
 name: blog.html
 title: Blog
 appendToTarget: true
