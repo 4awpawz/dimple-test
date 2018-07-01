@@ -1,7 +1,7 @@
 <!--
 description: about page body fragment
-template: default.html
-name: blog.html
+template: blog.html
+name: index.html
 title: Blog
 appendToTarget: true
 -->
