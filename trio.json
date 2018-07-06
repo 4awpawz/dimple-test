@@ -1,5 +1,7 @@
 {
-    "site": {
-        "baseUrl": ""
-    }
+    "beautifyHTML": true,
+    "baseUrl": "/trioiopages",
+    "prefixUrls": true,
+    "removeDataAttributes": true,
+    "removeComments": true
 }

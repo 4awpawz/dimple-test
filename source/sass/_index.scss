@@ -10,6 +10,10 @@
 .index-just__three-pillars {
     font-weight: bold;
     // filter: blur(5px);
-    background-color: rgba($color: #ffffff, $alpha: .3);
-    color: rgba($color: #000000, $alpha: 0.8);
+    // background-color: rgba($color: #ffffff, $alpha: .3);
+    background-color: #fff;
+    // color: rgba($color: #000000, $alpha: 0.8);
+    color: #000;
+    mix-blend-mode: screen;
+
 }
