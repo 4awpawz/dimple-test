@@ -1,2 +1,2 @@
-# Dimple Test Project
+# Trio Test Project
 This isn't just la di da!
