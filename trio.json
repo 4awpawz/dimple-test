@@ -1,7 +1,6 @@
 {
     "beautifyHTML": true,
     "baseUrl": "/trioiopages",
-    "prefixUrls": false,
     "removeDataAttributes": true,
     "removeComments": true
 }
